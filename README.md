@@ -1,6 +1,11 @@
 # Vue 指令
 
-## LazyLoad
+## 安装
+```
+  npm i @kvinc/vue-directive -S
+```
+
+### LazyLoad
 
 | 修饰符 | 说明|
 | :---: | :---:|
