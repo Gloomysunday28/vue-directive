@@ -1,0 +1,13 @@
+{
+  "name": "@kvinc/vue-directive",
+  "version": "0.0.5",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "parcel build index.js"
+  },
+  "keywords": ["vue", "directive"],
+  "license": "MIT",
+  "repository": {},
+  "author": "cjd <459953103@qq.com> (http://github.com/GloomySunday28)",
+  "description": "Vue自定义指令"
+}
